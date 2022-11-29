@@ -53,6 +53,7 @@ int main(int argc, const char * argv[]) {
     {
         ifs>>s1;
     }
+    
     ifs.close();
     
     return 0;
